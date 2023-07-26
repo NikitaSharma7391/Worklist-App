@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/.github.io/Worklist-App/static/css/main.eb0f37d6.css",
+    "main.js": "/.github.io/Worklist-App/static/js/main.adbc6670.js",
+    "index.html": "/.github.io/Worklist-App/index.html",
+    "main.eb0f37d6.css.map": "/.github.io/Worklist-App/static/css/main.eb0f37d6.css.map",
+    "main.adbc6670.js.map": "/.github.io/Worklist-App/static/js/main.adbc6670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0f37d6.css",
+    "static/js/main.adbc6670.js"
+  ]
+}
